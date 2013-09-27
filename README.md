@@ -4,7 +4,7 @@ newsmap
 NewsMap
 
 Description:
-  Show news tags on  a map, and users can click on the tag to read it.\n
+  Show news tags on  a map, and users can click on the tag to read it.<br>
   The tag will locate on the map area where the news has happened.
   
 Program methods may be include:
