@@ -1,4 +1,6 @@
-《NewsMap Project Description
+<b>NewsMap Project Description</b>
+<p>
+<p>
 
 Project Targets:
 <table border="0">
