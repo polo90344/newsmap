@@ -19,7 +19,7 @@ Program methods may be included:
 </tr>
 <tr>
 	<td>mapapi</td>
-	<td>some api to show the map, may be the Google Map (Currently A Plan
+	<td>some api to show the map, may be the Google Map (currently the A Plan
 for me)</td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ for me)</td>
 </tr>
 <tr>
 	<td>MariaDB</td>
-	<td>Database</td>
+	<td>Database (may be we won't have to use it)</td>
 </tr>
 </table>
 
