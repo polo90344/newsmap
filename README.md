@@ -5,11 +5,11 @@ NewsMap
 <p>
 Description:
 <br>
- &nbsp&nbspShow news tags on  a map, and users can click on the tag to read it.
+		Show news tags on  a map, and users can click on the tag to read it.
 <br>
-&nbsp&nbspThe tag will locate on the map area where the news has happened.
+		The tag will locate on the map area where the news has happened.
 <p>  
-Program methods may be include:
+		Program methods may be include:
 <br>
   python  - the language i have just planed to learn deeply and widely.
 <br>
