@@ -1,5 +1,5 @@
 Description:
-<table>
+<table border='0'>
 <tr>
 	<td></td>
 	<td>Show news as tags on a map, and users who browse the map can click
@@ -12,7 +12,7 @@ on the tag to read the news.</td>
 </table>
 <p>
 Program methods may be included:
-<table>
+<table border='0'>
 <tr>
 	<td>python</td>
 	<td>the language i have just planed to learn :-D</td>
