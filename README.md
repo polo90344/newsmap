@@ -19,7 +19,8 @@ Program methods may be included:
 </tr>
 <tr>
 	<td>mapapi</td>
-	<td>some api to show the map, may be the Google</td>
+	<td>some api to show the map, may be the Google Map (Currently A Plan
+for me)</td>
 </tr>
 <tr>
 	<td>flask</td>
