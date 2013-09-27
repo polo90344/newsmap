@@ -2,12 +2,11 @@ Project Targets:
 <table border="0">
 <tr>
 	<td>1.</td>
-	<td>Show news as tags on a map, and users who browse the map can click
-on the tag to read the news.</td>
+	<td>Show news as tags on a map. Users who were browsing the map can click on the tag and read the news.</td>
 </tr>
 <tr>
 	<td>2.</td>
-	<td>The tag will locate on the map area where the news has happened.</td>
+	<td>The tag will locate on the correspond map area where the news happened.</td>
 </tr>
 </table>
 <p>
