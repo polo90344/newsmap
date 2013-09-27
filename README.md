@@ -2,14 +2,21 @@ newsmap
 =======
 
 NewsMap
-<p>
-Description:
-<br>
+<table>
+<tr>
+	<td>
+		Description:
+	</td>
+</tr>
+<tr>
+	<td>
 		Show news tags on  a map, and users can click on the tag to read it.
-<br>
-		The tag will locate on the map area where the news has happened.
+	</td>
+</tr>
+
+The tag will locate on the map area where the news has happened.
 <p>  
-		Program methods may be include:
+Program methods may be include:
 <br>
   python  - the language i have just planed to learn deeply and widely.
 <br>
