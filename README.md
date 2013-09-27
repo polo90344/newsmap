@@ -12,4 +12,4 @@ Program methods may be include:
   mapapi  - some api to show the map, may be the Google Map(the A Plan)
   flask - web framework.
   django  - another choice for web implements
-  MariaDB - Satad
+  MariaDB - a Database
