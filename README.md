@@ -1,5 +1,5 @@
+Description:
 <table>
-	<td>Description:</td>
 <tr>
 	<td></td>
 	<td>Show news tags on a map, and users can click on the tag to read it.</td>
@@ -8,10 +8,10 @@
 	<td></td>
 	<td>The tag will locate on the map area where the news has happened.</td>
 </tr>
-<tr></tr>
-<tr>
-	<td>Program methods may be included:</td>
-</tr>
+</table>
+<p>
+Program methods may be included:
+<table>
 <tr>
 	<td>python</td>
 	<td>the language i have just planed to learn</td>
