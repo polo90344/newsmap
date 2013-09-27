@@ -15,7 +15,7 @@ Program methods may be included:
 <table>
 <tr>
 	<td>python</td>
-	<td>the language i have just planed to learn</td>
+	<td>the language i have just planed to learn :-D</td>
 </tr>
 <tr>
 	<td>mapapi</td>
